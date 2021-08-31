@@ -1,7 +1,7 @@
 # Note Taker Starter Code
- I apologize I couldn't crop out the top of bottom of both pictures. My computer wouldn't let me.
+## I apologize I couldn't crop out the top of bottom of both pictures. My computer wouldn't let me.
 
-![Screenshot](Note-1.jpg) ![Alt text](Note-2.jpg)
+![Screenshot](ReadMe-Img/Note-1.jpg) ![Alt text](ReadMe-Img/Note-2.jpg)
 
 ## User Story
 
@@ -32,3 +32,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Link to Github
 The finished project is found here (https://github.com/Sirmaaalik/Note-taker)
+
+## Link to application
+https://sirmaaalik.github.io/Note-taker/
